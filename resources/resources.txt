@@ -1,0 +1,9 @@
+Data:
+https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip
+
+NLP:
+https://www.jstatsoft.org/article/view/v025i05
+https://cran.r-project.org/web/views/NaturalLanguageProcessing.html
+https://www.coursera.org/course/nlp
+
+
